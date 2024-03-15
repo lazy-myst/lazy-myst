@@ -14,7 +14,7 @@ Greetings! I'm Muhammad Ammad, a software craftsman dedicated to unraveling the 
 - 💬 Enthusiastic about DevOps.
 - 🛠️ Technologies & Tools
 
-Here are some tools I wield:
+---
 
 ### Languages & Tools : &nbsp;
 <div>
@@ -50,3 +50,7 @@ Here are some tools I wield:
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="github" **alt="github" width="40" height="40"/>&nbsp;
 </div>
+
+---
+### My Stats : &nbsp;
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lazy-myst&theme=dark&background=000000)](https://git.io/streak-stats)
