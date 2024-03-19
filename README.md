@@ -40,17 +40,17 @@ Greetings! I'm Muhammad Ammad, a software craftsman dedicated to unraveling the 
   <img src="https://github.com/devicons/devicon/blob/master/icons/framermotion/framermotion-original-wordmark.svg" title="Framer Motion" **alt="Framer Motion" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongoose/mongoose-original-wordmark.svg" title="Mongoose" **alt="Mongoose" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/netlify/netlify-plain-wordmark.svg" title="Netlify" **alt="Netlify" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Next JS" **alt="Next JS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" title="Next JS" **alt="Next JS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" **alt="npm" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/reactbootstrap/reactbootstrap-original.svg" title="React Bootstrap" **alt="React Bootstrap" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/reactnavigation/reactnavigation-original.svg" title="React Navigation" **alt="React Navigation" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/reactrouter/reactrouter-plain-wordmark.svg" title="React Router" **alt="React Router" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original-wordmark.svg" title="Socket io" **alt="Socket io" width="40" height="40"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" title="Postman" **alt="Postman" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original-wordmark.svg" title="Vercel" **alt="Vercel" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vercel-Dark.svg" title="Vercel" **alt="Vercel" width="40" height="40"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" title="VS code" **alt="VS code" width="40" height="40"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="github" **alt="github" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" title="Github" **alt="Github" width="40" height="40"/>&nbsp;
 </div>
 
 ---
